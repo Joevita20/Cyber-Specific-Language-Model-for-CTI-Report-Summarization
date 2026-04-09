@@ -1,8 +1,5 @@
 # A Cyber-Specific Language Model for Cyber Threat Intelligence Report Summarization
 
-**Authors:** Dr. P. Jayashree, R. Sasana, Rakshitha P, Joevita Faustina Doss F  
-**Institution:** Department of Computer Technology, Anna University — MIT Campus, Chennai, India
-
 ---
 
 ## Overview
